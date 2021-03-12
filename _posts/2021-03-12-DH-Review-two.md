@@ -20,7 +20,7 @@ The purpose of the site is to collect and categorize all music in the world base
 
 ![Map](https://lmaged21.github.io/DH-Blog-Posts/images/Map.jpg)
 
-**Critics:**
+**Critiques:**
 
 The site is very pretty but at times the extensive use of colors and graphics can be overwhelming to the user. It can be difficult to navigate and use as the site doesn’t openly tell how to use all the graphics or exactly what they are aiming to tell you. Upon opening the site, you are greeted with a large scroll wheel of text and a few tabs that lead to hard to read graphs and maps. I would prefer to see a more concise interdiction to aid readers and ease them into the idea of the site. Collecting all of international music history is a big task and readers can easily get lost in all the information so I believe a more simplistic approach to an introduction would do a lot for this site. Additionally, I would have like to see explanations and keys along with every graph in map that help you figure out how to use each of the graphics. The draw of the site is its interactive nature however without detailed instructions all the interactive maps and graphs are rather hard to use and make navigation difficulty at times.
 
