@@ -2,7 +2,7 @@
  
 ***Project:*** **The Global Jukebox**
  
-***Project Director:*** 
+***Project Director:*** **Anna L. Wood, Victor Grauer, and Forrestine Paulay**
  
 ***Project URL:*** https://theglobaljukebox.org/#
  
