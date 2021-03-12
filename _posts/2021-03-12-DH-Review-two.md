@@ -8,7 +8,7 @@
  
 ***Reviewed By:*** **Logan Maged**
 
-![DH Homepage](https://lmaged21.github.io/DH-Blog-Posts/images/Homepage.jpg)
+![DH Homepage](https://lmaged21.github.io/DH-Blog-Posts/images/Homescreen.jpg)
 
 **Summary:**
 
