@@ -8,6 +8,8 @@
  
 ***Reviewed By:*** **Logan Maged**
 
+![DH Homepage](https://lmaged21.github.io/DH-Blog-Posts/images/Homepage.jpg)
+
 **Summary:**
 
 The Global Jukebox is a project dedicated to the collecting and sorting of music from around the world based on data such as time period, country, and classification. The site has a detailed collection of music from around the world including information on each song such as artist, genre, and even instrumental composition. A variety of tabs allow the user to sort through the worlds music and check the cultures of many other places around the world in order to find what is most popular for any given time within that culture. The site incorporated a variety of graphics all of which are interactive to aid the user in narrowing down their search and finding the music they are looking for. The site overall is very eye catching and pretty making it an overall fun thing to interact with especially due to the well-made graphics and charts.
@@ -15,6 +17,8 @@ The Global Jukebox is a project dedicated to the collecting and sorting of music
 **Purpose:**
 
 The purpose of the site is to collect and categorize all music in the world based on a given set of variables. It is an educational site that prides itself on being a voice of cultural equality by spreading the music of cultures around the world for anyone to discover through the site. It also aims to educate the user on the patterns withing music and music culture from other countries and cultures. Many of the graphs act to find these patterns among music and display them to the user so they may discover their own new music from other places outside their culture. It acts as a piece of history as in every culture there is a new unique form of music that constantly evolves and changes over time. To be able to track the cultural history of things like this ensure an inclusive and well-educated society. The Global Jukebox also does this in a very fun and creative way even using games or systems where users can code their own music. There is such a large number of things to do on the site I can only recommend checking it out for yourself.
+
+![Map](https://lmaged21.github.io/DH-Blog-Posts/images/Map.jpg)
 
 **Critics:**
 
